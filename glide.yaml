@@ -1,0 +1,6 @@
+package: github.com/sniperkit/xconf
+import:
+- package: github.com/gregjones/httpcache
+- package: sourcegraph.com/sourcegraph/go-sourcegraph
+  subpackages:
+  - sourcegraph
